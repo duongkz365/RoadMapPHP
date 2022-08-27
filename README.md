@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**<br>
+1. **[How Internet & Websites works](https://github.com/duongkz365/RoadMapPHP#how-internet--websites-works)**<br>
 1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
 1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
 2. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
